@@ -1,2 +1,2 @@
 # css-odin-project
-css_odin_projecta
+css_odin_projects
